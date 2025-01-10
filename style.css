@@ -65,3 +65,32 @@ nav {
   border: none;
 }
 /* /* banner area end */
+/* Pillars of "Bangladesh 2.0 start */
+.pillars-title h2 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 80px;
+}
+.cards {
+  margin-top: 32px;
+  display: grid;
+  gap: 24px;
+  grid-template-columns: repeat(4, 1fr);
+}
+.card {
+  padding: 30px 30px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: 2px solid #0e0e0e26;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #0e0e0ecc;
+  margin-top: 24px;
+}
+.card-description p {
+  margin-top: 12px;
+  color: #0e0e0eb3;
+}
+/* Pillars of "Bangladesh 2.0 end */
