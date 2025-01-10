@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+body {
+  background-color: #d5d6d8;
+  margin: 32px 100px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-head h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #0e0e0e;
+}
+.nav-btn {
+  padding: 15px 30px;
+  border: 1px solid #006a50;
+  background: transparent;
+  color: #006a50;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 500;
+}
