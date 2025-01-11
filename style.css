@@ -161,3 +161,28 @@ nav {
   border-radius: 8px;
   border: none;
 }
+/* about the dr.yunus  */
+.bg {
+  background-image: url(image/paragraph-bg.png);
+  background-repeat: no-repeat;
+}
+.about-yunus {
+  margin-top: 32px;
+  width: 1100;
+  height: 180px;
+  padding: 48px 24px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: 1px solid #0e0e0e26;
+}
+.about-yunus p {
+  line-height: 24px;
+  font-size: 16px;
+  color: #0e0e0ecc;
+}
+.about-yunus h2 {
+  margin-top: 12px;
+  font-size: 20px;
+  font-weight: 600;
+}
+/* about the dr. yunus  */
