@@ -4,8 +4,9 @@
   overflow-x: hidden;
 }
 body {
-  background-color: #d5d6d8;
+  background-color: #f1f1f3;
   margin: 32px 100px;
+  font-family: "Fira Sans", serif;
 }
 /* navbar section start */
 nav {
@@ -249,6 +250,7 @@ nav {
   margin-top: 32px;
   display: flex;
   gap: 32px;
+  justify-content: center;
 }
 .donate-box {
   padding: 40px;
@@ -258,12 +260,13 @@ nav {
   font-weight: bold;
 }
 .other-amount input {
-  width: 100%;
+  width: 94%;
   padding: 20px 40px;
   text-align: center;
   border: none;
   margin-top: 32px;
   color: #0e0e0eb3;
+  box-sizing: border-box;
 }
 .donate-click {
   align-items: center;
@@ -291,6 +294,7 @@ nav {
   font-size: 30px;
   font-weight: bold;
   margin-bottom: 5px;
+  overflow: hidden;
 }
 .text p {
   margin-top: 15px;
