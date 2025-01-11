@@ -94,3 +94,70 @@ nav {
   color: #0e0e0eb3;
 }
 /* Pillars of "Bangladesh 2.0 end */
+.vision-future {
+  margin-top: 80px;
+}
+
+.vision-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+.vision-dicription {
+  margin-top: 24px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0e0e0eb3;
+}
+.vision-cards {
+  margin-top: 32px;
+  display: grid;
+  gap: 24px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.Digital-card {
+  padding: 32px 32px;
+  background-color: #5490f533;
+  border-radius: 16px;
+}
+.digital-btn {
+  margin-top: 24px;
+  padding: 11px 20px;
+  background-color: #5490f5;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  border: none;
+}
+
+.Digital-card-2 {
+  padding: 32px 32px;
+  background-color: #c6e4d6;
+  border-radius: 16px;
+}
+.digital-btn-2 {
+  margin-top: 24px;
+  padding: 11px 20px;
+  background-color: #006a50;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  border: none;
+}
+.Digital-card-3 {
+  padding: 32px 32px;
+  background-color: #f7ebcf;
+  border-radius: 16px;
+}
+.digital-btn-3 {
+  margin-top: 24px;
+  padding: 11px 20px;
+  background-color: #ffc239;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  border: none;
+}
